@@ -87,23 +87,6 @@ I believe in continuous learning, open source, and crafting software with impact
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdisbaulhaque&show_icons=true&theme=radical" alt="Isbaul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdisbaulhaque&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdisbaulhaque&theme=radical&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
